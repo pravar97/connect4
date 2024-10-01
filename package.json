@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "dependencies": {
+    "jest": "^26.2.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "coverage": "npx jest --coverage"
+  },
+  "author": "Pravar",
+  "license": "ISC"
+}
